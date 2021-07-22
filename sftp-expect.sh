@@ -9,7 +9,7 @@ read path_destin
 
 /usr/bin/expect <<-EOF
 
-spawn scp -r user@server1.example.com:$path_origin user@server2.example.com:$path_destin
+spawn scp -r user1@server1.example.com:$path_origin user1@server2.example.com:$path_destin
 
 
 
