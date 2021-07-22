@@ -1,0 +1,1 @@
+# Bash-Script---Copy-files-between-2-Servers-from-a-Remote-Machine.
