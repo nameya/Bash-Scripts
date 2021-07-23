@@ -3,13 +3,13 @@
 echo "Enter the Source SFTP Server"
 read source_server
 
-echo "Enter the Source User Name"
+echo "Enter the Source User-Name"
 read  source_user
 
 echo "Enter the Destination SFTP Server"
 read destin_server
 
-echo "Enter the Destination User Name"
+echo "Enter the Destination User-Name"
 read  destin_user
 
 echo "Enter the Source SFTP Server Path"
